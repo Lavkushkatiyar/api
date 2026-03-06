@@ -1,0 +1,13 @@
+i have to create a restful api 
+that will give me a json data 
+
+the routes would be 
+
+GET / users - list all the users
+GET / users/1 - return the user with id 1
+
+POST / users - will create a new user 
+
+PATCH / users/1 - will update the information of the existing user
+
+Delete / users/1 - will delete the user simple 
