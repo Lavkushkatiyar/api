@@ -318,5 +318,13 @@
     "email": "layla.cook@example.com",
     "gender": "Female",
     "job_title": "Sales Manager"
+  },
+  {
+    "id": 41,
+    "first_name": "Love",
+    "last_name": "kush",
+    "email": "lk@gmail.com",
+    "gender": "male",
+    "job_tittle": "unemployed"
   }
 ]
